@@ -1,0 +1,16 @@
+# Ignore Executables and Object files
+*.exe
+*.o
+*.obj
+*.dll
+
+# Ignore IDE specific settings
+.vscode/
+.idea/
+*.layout
+*.cbp
+
+# Debug folders
+Debug/
+Release/
+x64/

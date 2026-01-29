@@ -1,0 +1,8 @@
+Username,Password,Role,SellerID,Approval,Rating,Comment
+Jack,11223344,1,476736876,1,0,No rating yet
+a,a,1,7635678762738,1,0,No rating yet
+umar,umar,1,45464377,1,0,No rating yet
+bilal,bilal,2,664627622224872,1,0,No rating yet
+Angelina,445566,2,Noah11,1,0,No rating yet
+Noah,112233,1,Noah11,1,4,Nice work and approach
+Sophia,445566,2,Noah11,1,2,Using false claims

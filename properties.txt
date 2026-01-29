@@ -1,0 +1,7 @@
+PropertySerial|PropertyOwner|PropertyContact|PropertyType|PropertyAddress|PropertyStatus|PropertySize|PropertyPrice|SellerID
+A8436|Lily|+29837666554|1|Faisalabad| Pakistan|For-Rent|567|476736876
+AZ636|George|+973764456543|1|Scotland, UK|For-Rent|8346|7635678762738|7635678762738
+UNK563|Julie|+9276263373|1|Islamabad, Pakistan|For-Sale|67475|45464377|45464377
+Eden45|Jack|+18543742824|1|London, United Kingdom|For-Sale|65|664627622224872|664627622224872
+Ex98|Olivia|+176466564|0|Manchster, UK|For-Sale|4545544347|6462576346237647826|6462576346237647826
+KM13|Noah|+76767645|0|Manchester, Street7, UK|For-Rent|74|544545|Noah11

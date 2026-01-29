@@ -1,0 +1,2 @@
+PropertyID,SellerID,BuyerUsername,StartDate,EndDate,Status,Amount
+KM13,Noah11,Sophia,29-01-2026,29-02-2026,Active,40000
