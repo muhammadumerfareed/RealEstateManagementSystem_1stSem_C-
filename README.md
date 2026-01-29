@@ -1,6 +1,10 @@
 # 🏠 Real Estate Management System (REMS)
 <img width="1195" height="2026" alt="_C__Users_HP_OneDrive_Desktop_hehe html (3)" src="https://github.com/user-attachments/assets/c54f4089-2de1-4353-a675-8fe7633c8d6c" />
-
+<p align="center">
+  <a href="https://www.linkedin.com/posts/muhammad-umer-fareed-675557377_codingjourney-cpp-students-activity-7422600436517330944-0iXb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF0p8_kB2qk0wf18IejwkPYEZOLWdmhLmVA">
+    <img src="https://img.shields.io/badge/Watch_Demo_Video-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch on LinkedIn"/>
+  </a>
+</p>
 > **A persistent, role-based digital marketplace engine built from scratch in C++.**
 
 ![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B)
