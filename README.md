@@ -121,10 +121,10 @@ This project lays the foundation for a scalable enterprise system.
 ## 🏆 Credits
 
 **Developer:**
-* **[Your Name Here]** - *Full Stack Logic, Architecture & UI*
+* **Muhammad Umer Fareed** - *Full Stack Logic, Architecture & UI*
 
 **Supervisor:**
-* **Mr. Waqas Ali** - *For guidance on system architecture and logic flow.*
+* **Dr. Maida Shahid & Mr. Kamran Mustafa** - *For guidance on system architecture and logic flow.*
 
 ---
 
