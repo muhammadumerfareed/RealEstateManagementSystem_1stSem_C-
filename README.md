@@ -24,7 +24,7 @@ I designed this system with a strict focus on **Data Security** and **Role Isola
 * **Buyers** have read-only access to the market but write-access to their own transaction logs.
 * **Admins** oversee the entire flow via a master control panel.
 
-![System Architecture]
+
 <img width="1521" height="1334" alt="_C__Users_HP_OneDrive_Desktop_hehe html (5)" src="https://github.com/user-attachments/assets/95f442f7-5623-4a14-8233-f04d1782d1cb" />
 
 *(Note: This flowchart represents the Role-Based Access Control logic implemented in the source code.)*
@@ -99,7 +99,7 @@ The system handles complex state changes:
 ### Steps
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YourUsername/REMS-CPP.git](https://github.com/YourUsername/REMS-CPP.git)
+    git clone https://github.com/muhammadumerfareed/RealEstateManagementSystem_1stSem_C-.git
     ```
 2.  **Compile:**
     Open `main.cpp` and compile using C++11 standard.
